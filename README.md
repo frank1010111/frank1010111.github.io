@@ -16,6 +16,16 @@ dynamics to natural language processing to machine learning.
 I've got this blog because I have strong opinions I'd like to express and less
 strong memory of things I find interesting.
 
+Here are the posts:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## About my code
 
 If you ever want a programmer to grimace, show them their old code. That said,
