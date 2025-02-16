@@ -5,13 +5,13 @@ date: 2025-02-14
 
 # Do I really want to be a professor?
 
-## A totally unncecessary history lesson
+Okay, well, why is this my first question? Because someone asked me wheever I
+started writing this, so it's what's on my mind. I've been meaning to write a
+github pages webpage for a long time, and if someone had asked me, "Why are fish
+so colorful?" maybe that would have been the first question. Accidents, happy
+and sad, tend to set us on our journeys more often than careful planning.
 
-Okay, well, why is this my first question? Well, because someone asked me
-wheever I started writing this, so it's what's on my mind. I've been meaning to
-write a github pages webpage for a long time, and if someone had asked me, "Why
-are fish so colorful?" maybe that would have been the first question. Accidents,
-happy and sad, tend to set us on our journeys more often than careful planning.
+## A totally unncecessary history lesson
 
 Am I professor by accident? Maybe! In high school, like some percent of
 students, I was in the gifted program. I don't think it helped me. Most of the
