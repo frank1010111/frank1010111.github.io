@@ -3,6 +3,8 @@ title: Do I really want to be a professor?
 date: 2025-02-14
 ---
 
+# Do I really want to be a professor?
+
 ## A totally unncecessary history lesson
 
 Okay, well, why is this my first question? Well, because someone asked me
