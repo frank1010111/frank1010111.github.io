@@ -1,4 +1,7 @@
-# Do I really want to be a professor?
+---
+title: Do I really want to be a professor?
+date: 2025-02-14
+---
 
 ## A totally unncecessary history lesson
 
